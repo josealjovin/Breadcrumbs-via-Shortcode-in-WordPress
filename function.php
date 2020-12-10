@@ -6,7 +6,7 @@ add_action( 'wp_enqueue_scripts', 'my_theme_enqueue_styles' );
 
 //add new code here -------------------------------------------------------------------------------
 
-// Breadcrumbs
+// Breadcrumbs - add from here to your functions.php
 function get_hansel_and_gretel_breadcrumbs()
 {
     // Set variables for later use
