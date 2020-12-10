@@ -1,4 +1,4 @@
-# Custom-WP-Breadcrumbs
+# Breadcrumbs via Shortcode in WordPress
 
 Add Breadcrumbs via Shortcut in WP
 Just add the function to your child theme.
